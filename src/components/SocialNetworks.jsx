@@ -3,9 +3,9 @@ import {FaLinkedin, FaGithub, FaInstagram} from "react-icons/fa";
 import "../css/socialnetworks.css";
 
 const socialNetworks = [
-  {name: "linkedin", icon: <FaLinkedin />, url: "https://www.linkedin.com/in/codebuenozy"},
-  {name: "github", icon: <FaGithub />, url: "https://www.github.com/codebuenozy"},
-  {name: "instagram", icon: <FaInstagram />, url: "https://www.instagram.com/codebuenozy"},
+  {name: "linkedin", icon: <FaLinkedin />, url: "https://www.linkedin.com/in/buenof3r"},
+  {name: "github", icon: <FaGithub />, url: "https://www.github.com/codebybueno"},
+  {name: "instagram", icon: <FaInstagram />, url: "https://www.instagram.com/buenof3r"},
 ];
 
 const SocialNetworks = () => {
